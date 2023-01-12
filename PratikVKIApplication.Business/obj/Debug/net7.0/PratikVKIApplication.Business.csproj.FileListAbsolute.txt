@@ -1,0 +1,12 @@
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\bin\Debug\net7.0\PratikVKIApplication.Business.deps.json
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\bin\Debug\net7.0\PratikVKIApplication.Business.dll
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\bin\Debug\net7.0\PratikVKIApplication.Business.pdb
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.csproj.AssemblyReference.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.AssemblyInfoInputs.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.AssemblyInfo.cs
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.csproj.CoreCompileInputs.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.dll
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\obj\Debug\net7.0\refint\PratikVKIApplication.Business.dll
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.pdb
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\100123VKI\PratikVKIWithMethodDatasourceList\PratikVKIApplication.Business\obj\Debug\net7.0\ref\PratikVKIApplication.Business.dll
